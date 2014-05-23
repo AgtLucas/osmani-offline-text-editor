@@ -1,0 +1,19 @@
+{
+  "name": "osmani-offline-text-editor",
+  "version": "0.0.0",
+  "description": "osmani-offline-text-editor ==========================",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AgtLucas/osmani-offline-text-editor.git"
+  },
+  "author": "",
+  "license": "Do What THe Fuck You Want To Public License",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/osmani-offline-text-editor/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/osmani-offline-text-editor"
+}
